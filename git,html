@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>App</title>
+        <script src="git.js"></script>
+        <link rel="stylesheet" href="git.css">
+    </head>
+    <body>
+        <p>New Text</p>
+    </body>
+</html>
