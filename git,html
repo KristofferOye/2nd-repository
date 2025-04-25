@@ -2,8 +2,12 @@
 <html>
     <head>
         <title>App</title>
-        <script src="git.js"></script>
-        <link rel="stylesheet" href="git.css">
+        <script src="simple.js"></script>
+        <style>
+            p {
+                font-size: 30px;
+            }
+        </style>
     </head>
     <body>
         <p>New Text</p>
